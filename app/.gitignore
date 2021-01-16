@@ -1,0 +1,4 @@
+# Para todos os arquivos e sub-pastas localizados na pasta bower_components/
+app/public/bower_components
+# Para arquivos node_modules
+app/node_modules
